@@ -3,7 +3,7 @@
 Plugin Name: Title and Nofollow For Links
 Plugin URI: http://wordpress.org/plugins/title-and-nofollow-for-links/
 Description: The plugin adds a title and a rel="nofollow" checkbox to the insert link popup box. Only for Classic Editor, NOT Block Editor.
-Version: 1.12
+Version: 1.13
 Author: WPKube
 Author URI: https://www.wpkube.com/
 Text Domain: title-and-nofollow-for-links
